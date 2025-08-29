@@ -11,7 +11,7 @@ I am currently a Research Assistant in the Department of Computing at [The Hong 
 
 My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
 
-## 📝 Publications
+## Publications
 * [InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities](https://arxiv.org/abs/2508.05496)  
 ***Under Review***  
 *Shuo Cai, **Su Lu**, Qi Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang*
@@ -22,16 +22,16 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 ***IEEE Transactions on Cybernetics***  
 *Ting Wang, **Su Lu**, Jianjun Zhang, Xuyu Liu, Xing Tian, Wing WY Ng, Wei-neng Chen*
 
-## 🎖 Honors and Awards
+## Honors and Awards
 * 2021.09, Academic Scholarship, SCUT *(Top 10%)*
 * 2020.09, Academic Scholarship, SCUT *(Top 10%)*
 * 2019.09, First-Class Academic Scholarship, SCUT *(Top 10%)*
 * 2017.09, Second-Class Academic Scholarship, SCUT *(Top 10%)*
 
-## 💻 Work Experience
-* 2025.01 - Present, Research Assistant, Hong Kong Polytechnic University
-* 2022.07 - 2024.11, Software Engineer (Backend Development), Tencent
+## Work Experience
+* *2025.01 - Present*, Research Assistant, Hong Kong Polytechnic University
+* *2022.07 - 2024.11*, Software Engineer (Backend Development), Tencent
 
-## 📖 Educations
-* 2019.09 - 2022.07, Master in Computer Technology, South China University of Technology
-* 2015.09 - 2019.07, Bachelor in Industrial Engineering, South China University of Technology
+## Education
+* *2019.09 - 2022.07*, Master in Computer Technology, South China University of Technology
+* *2015.09 - 2019.07*, Bachelor in Industrial Engineering, South China University of Technology
