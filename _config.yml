@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "Su Lu's Personal Page"
 title_separator          : "-"
 name                     : &name "Su Lu"
 description              : &description "Su Lu's personal page"
@@ -22,7 +22,7 @@ repository               : "luppx/luppx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Su Lu"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant at PolyU"
