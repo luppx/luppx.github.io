@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant in the Department of Computing of [Hong Kong Polytechnic University](https://www.polyu.edu.hk), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Prior to this, I worked as a software engineer (Backend Development) at [Tencent](https://www.tencent.com/en-us/) for more than two years. I obtained my Master’s Degree in Computer Technology at the School of Computer Science and Engineering, [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I worked in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I received my Bachelor’s Degree in Industrial Engineering at the School of Business Administration, [South China University of Technology](https://www.scut.edu.cn/en/) in 2019. My current research interests lie primarily in Large Language Models (LLMs), with special emphasis on post-training.
+I am currently a Research Assistant in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/) for over two years. I received my Master’s Degree in Computer Technology from the School of Computer Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I conducted research in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I obtained my Bachelor’s Degree in Industrial Engineering from the same university in 2019. 
+
+My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
 
 A data-driven personal website
 ======
