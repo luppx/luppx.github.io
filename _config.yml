@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Su Lu's Personal Page"
+title                    : "Su Lu's Homepage"
 title_separator          : "-"
 name                     : &name "Su Lu"
-description              : &description "Su Lu's personal page"
+description              : &description "Su Lu's Homepage"
 url                      : https://luppx.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luppx/luppx.github.io"
@@ -22,7 +22,7 @@ repository               : "luppx/luppx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "avatar.png"
   name             : "Su Lu"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant at PolyU"
