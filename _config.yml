@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Su Lu's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Su Lu"
 description              : &description "Su Lu's Homepage"
