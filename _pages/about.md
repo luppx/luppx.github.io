@@ -23,8 +23,8 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 *Ting Wang, **Su Lu**, Jianjun Zhang, Xuyu Liu, Xing Tian, Wing WY Ng, Wei-neng Chen*
 
 ## Honors and Awards
-* 2021.09, Academic Scholarship, SCUT *(Top 10%)*
-* 2020.09, Academic Scholarship, SCUT *(Top 10%)*
+* 2021.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
+* 2020.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
 * 2019.09, First-Class Academic Scholarship, SCUT *(Top 10%)*
 * 2017.09, Second-Class Academic Scholarship, SCUT *(Top 10%)*
 
