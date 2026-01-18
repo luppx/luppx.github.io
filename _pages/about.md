@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/) for over two years. I received my Master’s Degree in Computer Technology from the School of Computer Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I conducted research in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I obtained my Bachelor’s Degree in Industrial Engineering from the same university in 2019. 
+I am a first-year PhD student in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/) for over two years. I received my Master’s Degree in Computer Technology from the School of Computer Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I conducted research in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I obtained my Bachelor’s Degree in Industrial Engineering from the same university in 2019. 
 
 My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
 
@@ -29,9 +29,10 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 * 2017.09, Second-Class Academic Scholarship, SCUT *(Top 10%)*
 
 ## Work Experience
-* *2025.01 - Present*, Research Assistant, Hong Kong Polytechnic University
+* *2025.01 - 2025.12*, Research Assistant, The Hong Kong Polytechnic University
 * *2022.07 - 2024.11*, Software Engineer (Backend Development), Tencent
 
 ## Education
+* *2026.01 - Present*, PhD in Computer Science, The Hong Kong Polytechnic University
 * *2019.09 - 2022.07*, Master in Computer Technology, South China University of Technology
 * *2015.09 - 2019.07*, Bachelor in Industrial Engineering, South China University of Technology
