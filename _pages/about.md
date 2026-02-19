@@ -13,10 +13,8 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 
 ## Publications
 * [InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities](https://arxiv.org/abs/2508.05496)  
-***Under Review***  
 *Shuo Cai, **Su Lu**, Qi Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang*
 * [InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning](https://arxiv.org/abs/2502.11573)  
-***Under Review***  
 *Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, **Su Lu**, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang*
 * [SBHA: Sensitive binary hashing autoencoder for image retrieval](https://ieeexplore.ieee.org/abstract/document/10123358)  
 ***IEEE Transactions on Cybernetics***  
@@ -36,3 +34,9 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 * *2026.01 - Present*, PhD in Computer Science, The Hong Kong Polytechnic University
 * *2019.09 - 2022.07*, Master in Computer Technology, South China University of Technology
 * *2015.09 - 2019.07*, Bachelor in Industrial Engineering, South China University of Technology
+
+## Academic Service
+* Conference: Reviewer for the NeurIPS
+
+## Teaching
+* *2026 Spring*, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
