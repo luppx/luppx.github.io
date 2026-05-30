@@ -7,11 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/) for over two years. I received my Master’s Degree in Computer Technology from the School of Computer Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I conducted research in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I obtained my Bachelor’s Degree in Industrial Engineering from the same university in 2019. 
+I am currently a PhD student in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/) for over two years. I received my Master’s Degree in Computer Technology from the School of Computer Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I conducted research in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I obtained my Bachelor’s Degree in Industrial Engineering from the same university in 2019. 
 
 My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
 
 ## Publications
+* [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844)  
+*Yuanyi Wang, **Su Lu**, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*
+* [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://openreview.net/forum?id=aQIOppFWrT)  
+*Yuanyi Wang, Yanggan Gu, **Su Lu**, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*  
+***ICML 2026 Workshop on Weight-Space Symmetries***  
+* [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://arxiv.org/abs/2605.09608)  
+*Yuanyi Wang, Yifan Yang, **Su Lu**, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang*
+* [FeatCal: Feature Calibration for Post-Merging Models](https://arxiv.org/abs/2605.13030)  
+*Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, Yuanyi Wang, Pengkai Wang, Sirui Huang, **Su Lu**, Jianmin Wu, Hongxia Yang*
 * [InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities](https://arxiv.org/abs/2508.05496)  
 *Shuo Cai, **Su Lu**, Qi Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang*
 * [InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning](https://arxiv.org/abs/2502.11573)  
