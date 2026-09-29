@@ -14,13 +14,15 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 ## Publications
 * [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844)  
 *Yuanyi Wang, **Su Lu**, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*
+* [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://arxiv.org/abs/2605.09608)  
+*Yuanyi Wang, Yifan Yang, **Su Lu**, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang*  
+***NeurIPS 2026***  
+* [FeatCal: Feature Calibration for Post-Merging Models](https://arxiv.org/abs/2605.13030)  
+*Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, Yuanyi Wang, Pengkai Wang, Sirui Huang, **Su Lu**, Jianmin Wu, Hongxia Yang*  
+***NeurIPS 2026 (Spotlight)***  
 * [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://openreview.net/forum?id=aQIOppFWrT)  
 *Yuanyi Wang, Yanggan Gu, **Su Lu**, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*  
 ***ICML 2026 Workshop on Weight-Space Symmetries***  
-* [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://arxiv.org/abs/2605.09608)  
-*Yuanyi Wang, Yifan Yang, **Su Lu**, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang*
-* [FeatCal: Feature Calibration for Post-Merging Models](https://arxiv.org/abs/2605.13030)  
-*Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, Yuanyi Wang, Pengkai Wang, Sirui Huang, **Su Lu**, Jianmin Wu, Hongxia Yang*
 * [InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities](https://arxiv.org/abs/2508.05496)  
 *Shuo Cai, **Su Lu**, Qi Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang*
 * [InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning](https://arxiv.org/abs/2502.11573)  
