@@ -50,4 +50,5 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 * Conference: Reviewer for the NeurIPS
 
 ## Teaching
-* *2026 Spring*, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
+* *2025/26 Spring*, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
+* *2026/27 Fall*, Teaching Assistant, COMP2021 - OBJECT-ORIENTED PROGRAMMING, PolyU
