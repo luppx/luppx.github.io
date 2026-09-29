@@ -28,8 +28,8 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 * [InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning](https://arxiv.org/abs/2502.11573)  
 *Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, **Su Lu**, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang*
 * [SBHA: Sensitive binary hashing autoencoder for image retrieval](https://ieeexplore.ieee.org/abstract/document/10123358)  
-***IEEE Transactions on Cybernetics***  
-*Ting Wang, **Su Lu**, Jianjun Zhang, Xuyu Liu, Xing Tian, Wing WY Ng, Wei-neng Chen*
+*Ting Wang, **Su Lu**, Jianjun Zhang, Xuyu Liu, Xing Tian, Wing WY Ng, Wei-neng Chen*  
+***IEEE Transactions on Cybernetics***
 
 ## Honors and Awards
 * 2021.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
