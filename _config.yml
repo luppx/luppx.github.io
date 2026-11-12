@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YttGd_QAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-4064-3942"
+  orcid            :
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : cslu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

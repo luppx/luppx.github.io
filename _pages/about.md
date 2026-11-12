@@ -12,6 +12,15 @@ I am currently a PhD student in the Department of Computing at [The Hong Kong Po
 My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
 
 ## Publications
+
+* [Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs](https://arxiv.org/abs/2609.32821)  
+*Yuanyi Wang, Yanggan Gu, **Su Lu**, Guanghao Zhu, Pengkai Wang, Yifan Yang, Congkai Xie, Zhaoyi Yan, Jianmin Wu, Hongxia Yang*
+* MergePipe: A Budget-Aware Data Management System for Scalable LLM Merging
+*Yuanyi Wang, Guanghao Zhu, Yanggan Gu, **Su Lu**, Yifan Yang, Xijun Xiang, Xuhuan Li, Kunxi Li, Zihao Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*
+* [FusionEval: Benchmarking Model Fusion for Large Language Models](https://arxiv.org/abs/2610.30162)  
+*Shuo Cai, Yanggan Gu, Yuhang Liu, **Su Lu**, Yuanyi Wang, Yang Yu, Zhen Li, Zhitian Hou, Guanghao Zhu, Ming Li, Hongxia Yang*
+* LatticeLoop: Learning Loop-Specific Weights from Shared Low-Bit Codes 
+*Pengxiang Li, Zeyu Liu, Zhen Li, Yiming Zhang, **Su Lu**, Congkai Xie, Jianmin Wu, Hongxia Yang*
 * [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844)  
 *Yuanyi Wang, **Su Lu**, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*
 * [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://arxiv.org/abs/2605.09608)  
@@ -47,7 +56,7 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 * *2015.09 - 2019.07*, Bachelor in Industrial Engineering, South China University of Technology
 
 ## Academic Service
-* Conference: Reviewer for the NeurIPS
+* Conference: Reviewer for the NeurIPS, ICLR
 
 ## Teaching
 * *2025/26 Spring*, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
