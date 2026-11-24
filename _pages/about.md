@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student in the Department of Computing at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/). I received my master's degree from [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/) in 2022 under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm) and my bachelor's degree in 2019.
 
-My current research focuses on post-training large language models (LLMs) to improve their reasoning and problem-solving abilities in STEM domains, and on LLM-based agents.
+My current research focuses on post-training large language models (LLMs) to improve their reasoning and problem-solving abilities in STEM domains, and LLM agents.
 
 <span class="anchor" id="publications"></span>
 
