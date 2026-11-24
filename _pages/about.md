@@ -9,9 +9,9 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am currently a PhD student in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/) for over two years. I received my Master’s Degree in Computer Technology from the School of Computer Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/) in 2022, where I conducted research in the MLC Lab under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm). I obtained my Bachelor’s Degree in Industrial Engineering from the same university in 2019. 
+I am a PhD student in the Department of Computing at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a software engineer at [Tencent](https://www.tencent.com/en-us/). I received my master's degree from [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/) in 2022 under the supervision of [Prof. Wing W. Y. Ng](https://www2.scut.edu.cn/cs/2017/0629/c22284a328086/page.htm) and my bachelor's degree in 2019.
 
-My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
+My current research focuses on post-training large language models (LLMs) to improve their reasoning and problem-solving abilities in STEM domains, and on LLM-based agents.
 
 <span class="anchor" id="publications"></span>
 
@@ -46,10 +46,10 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 <span class="anchor" id="honors-and-awards"></span>
 
 ## 🎖 Honors and Awards
-* 2021.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
-* 2020.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
-* 2019.09, First-Class Academic Scholarship, SCUT *(Top 10%)*
-* 2017.09, Second-Class Academic Scholarship, SCUT *(Top 10%)*
+* *2021.09*, Postgraduate Academic Scholarship, SCUT (Top 10%)
+* *2020.09*, Postgraduate Academic Scholarship, SCUT (Top 10%)
+* *2019.09*, First-Class Academic Scholarship, SCUT (Top 10%)
+* *2017.09*, Second-Class Academic Scholarship, SCUT (Top 10%)
 
 <span class="anchor" id="work-experience"></span>
 
