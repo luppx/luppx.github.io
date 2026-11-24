@@ -4,7 +4,7 @@
 
 .publication-list {
   .publication {
-    padding: 1rem 0;
+    padding: 8px 0;
     border-bottom: 1px solid $border-color;
 
     &:first-child {
@@ -19,7 +19,7 @@
   .publication__title {
     margin: 0 0 0.25rem;
     color: $darker-gray;
-    font-size: 14px;
+    font-size: 14.5px;
     line-height: 1.4;
   }
 
@@ -38,7 +38,7 @@
   .publication__venue {
     margin: 0.3rem 0 0;
     color: $link-color;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 600;
   }
 
