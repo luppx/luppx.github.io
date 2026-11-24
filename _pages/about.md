@@ -11,7 +11,7 @@ I am currently a PhD student in the Department of Computing at [The Hong Kong Po
 
 My current research interests primarily focus on Large Language Models (LLMs), with a particular emphasis on post-training.
 
-## Publications
+## 📝 Publications
 * [Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs](https://arxiv.org/abs/2609.32821)  
 *Yuanyi Wang, Yanggan Gu, **Su Lu**, Guanghao Zhu, Pengkai Wang, Yifan Yang, Congkai Xie, Zhaoyi Yan, Jianmin Wu, Hongxia Yang*
 * MergePipe: A Budget-Aware Data Management System for Scalable LLM Merging  
@@ -39,25 +39,25 @@ My current research interests primarily focus on Large Language Models (LLMs), w
 *Ting Wang, **Su Lu**, Jianjun Zhang, Xuyu Liu, Xing Tian, Wing WY Ng, Wei-neng Chen*  
 ***IEEE Transactions on Cybernetics***
 
-## Honors and Awards
+## 🎖 Honors and Awards
 * 2021.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
 * 2020.09, Postgraduate Academic Scholarship, SCUT *(Top 10%)*
 * 2019.09, First-Class Academic Scholarship, SCUT *(Top 10%)*
 * 2017.09, Second-Class Academic Scholarship, SCUT *(Top 10%)*
 
-## Work Experience
+## 💻 Work Experience
 * *2025.01 - Present*, Research Intern, [Infix.ai](https://infix.io/)
 * *2025.01 - 2025.12*, Research Assistant, The Hong Kong Polytechnic University
 * *2022.07 - 2024.11*, Software Engineer (Backend Development), Tencent
 
-## Education
+## 📖 Education
 * *2026.01 - Present*, PhD in Computer Science, The Hong Kong Polytechnic University
 * *2019.09 - 2022.07*, Master in Computer Technology, South China University of Technology
 * *2015.09 - 2019.07*, Bachelor in Industrial Engineering, South China University of Technology
 
-## Academic Service
-* Conference: Reviewer for the NeurIPS, ICLR
+## 🔬 Academic Service
+* Conference reviewer: NeurIPS, ICLR
 
-## Teaching
+## 🧑‍🏫 Teaching
 * *2025/26 Spring*, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
 * *2026/27 Fall*, Teaching Assistant, COMP2021 - OBJECT-ORIENTED PROGRAMMING, PolyU
