@@ -46,24 +46,24 @@ My current research focuses on post-training large language models (LLMs) to imp
 <span class="anchor" id="honors-and-awards"></span>
 
 ## 🎖 Honors and Awards
-* *2021.09*, Postgraduate Academic Scholarship, SCUT (Top 10%)
-* *2020.09*, Postgraduate Academic Scholarship, SCUT (Top 10%)
-* *2019.09*, First-Class Academic Scholarship, SCUT (Top 10%)
-* *2017.09*, Second-Class Academic Scholarship, SCUT (Top 10%)
+* 2021.09, Postgraduate Academic Scholarship, SCUT (Top 10%)
+* 2020.09, Postgraduate Academic Scholarship, SCUT (Top 10%)
+* 2019.09, First-Class Academic Scholarship, SCUT (Top 10%)
+* 2017.09, Second-Class Academic Scholarship, SCUT (Top 10%)
 
 <span class="anchor" id="work-experience"></span>
 
 ## 💻 Work Experience
-* *2025.01 - Present*, Research Intern, [Infix.ai](https://infix.io/)
-* *2025.01 - 2025.12*, Research Assistant, The Hong Kong Polytechnic University
-* *2022.07 - 2024.11*, Software Engineer (Backend Development), Tencent
+* 2025.01 - Present, Research Intern, [Infix.ai](https://infix.io/)
+* 2025.01 - 2025.12, Research Assistant, The Hong Kong Polytechnic University
+* 2022.07 - 2024.11, Software Engineer (Backend Development), Tencent
 
 <span class="anchor" id="education"></span>
 
 ## 📖 Education
-* *2026.01 - Present*, PhD in Computer Science, The Hong Kong Polytechnic University
-* *2019.09 - 2022.07*, Master in Computer Technology, South China University of Technology
-* *2015.09 - 2019.07*, Bachelor in Industrial Engineering, South China University of Technology
+* 2026.01 - Present, PhD in Computer Science, The Hong Kong Polytechnic University
+* 2019.09 - 2022.07, Master in Computer Technology, South China University of Technology
+* 2015.09 - 2019.07, Bachelor in Industrial Engineering, South China University of Technology
 
 <span class="anchor" id="academic-service"></span>
 
@@ -73,5 +73,5 @@ My current research focuses on post-training large language models (LLMs) to imp
 <span class="anchor" id="teaching"></span>
 
 ## 🧑‍🏫 Teaching
-* *2025/26 Spring*, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
-* *2026/27 Fall*, Teaching Assistant, COMP2021 - OBJECT-ORIENTED PROGRAMMING, PolyU
+* 2025/26 Spring, Teaching Assistant, COMP6713 - Advanced Large Language Models And Beyond, PolyU
+* 2026/27 Fall, Teaching Assistant, COMP2021 - OBJECT-ORIENTED PROGRAMMING, PolyU
