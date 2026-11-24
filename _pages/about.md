@@ -16,32 +16,8 @@ My current research focuses on post-training large language models (LLMs) to imp
 <span class="anchor" id="publications"></span>
 
 ## 📝 Publications
-* [Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs](https://arxiv.org/abs/2609.32821)  
-*Yuanyi Wang, Yanggan Gu, **Su Lu**, Guanghao Zhu, Pengkai Wang, Yifan Yang, Congkai Xie, Zhaoyi Yan, Jianmin Wu, Hongxia Yang*
-* MergePipe: A Budget-Aware Data Management System for Scalable LLM Merging  
-*Yuanyi Wang, Guanghao Zhu, Yanggan Gu, **Su Lu**, Yifan Yang, Xijun Xiang, Xuhuan Li, Kunxi Li, Zihao Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*
-* [FusionEval: Benchmarking Model Fusion for Large Language Models](https://arxiv.org/abs/2610.30162)  
-*Shuo Cai, Yanggan Gu, Yuhang Liu, **Su Lu**, Yuanyi Wang, Yang Yu, Zhen Li, Zhitian Hou, Guanghao Zhu, Ming Li, Hongxia Yang*
-* LatticeLoop: Learning Loop-Specific Weights from Shared Low-Bit Codes  
-*Pengxiang Li, Zeyu Liu, Zhen Li, Yiming Zhang, **Su Lu**, Congkai Xie, Jianmin Wu, Hongxia Yang*
-* [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844)  
-*Yuanyi Wang, **Su Lu**, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*
-* [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://arxiv.org/abs/2605.09608)  
-*Yuanyi Wang, Yifan Yang, **Su Lu**, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang*  
-***NeurIPS 2026***  
-* [FeatCal: Feature Calibration for Post-Merging Models](https://arxiv.org/abs/2605.13030)  
-*Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, Yuanyi Wang, Pengkai Wang, Sirui Huang, **Su Lu**, Jianmin Wu, Hongxia Yang*  
-***NeurIPS 2026 (Spotlight)***  
-* [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://openreview.net/forum?id=aQIOppFWrT)  
-*Yuanyi Wang, Yanggan Gu, **Su Lu**, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang*  
-***ICML 2026 Workshop on Weight-Space Symmetries***  
-* [InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities](https://arxiv.org/abs/2508.05496)  
-*Shuo Cai, **Su Lu**, Qi Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang*
-* [InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning](https://arxiv.org/abs/2502.11573)  
-*Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, **Su Lu**, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang*
-* [SBHA: Sensitive binary hashing autoencoder for image retrieval](https://ieeexplore.ieee.org/abstract/document/10123358)  
-*Ting Wang, **Su Lu**, Jianjun Zhang, Xuyu Liu, Xing Tian, Wing WY Ng, Wei-neng Chen*  
-***IEEE Transactions on Cybernetics***
+
+{% include publications.html %}
 
 <span class="anchor" id="honors-and-awards"></span>
 
