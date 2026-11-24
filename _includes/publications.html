@@ -1,0 +1,22 @@
+{% assign publication_link_types = "paper,code,project" | split: "," %}
+<div class="publication-list">
+  {% for publication in site.data.publications %}
+    <article class="publication">
+      <h3 class="publication__title">{{ publication.title | escape }}</h3>
+      <div class="publication__authors">{{ publication.authors | markdownify }}</div>
+      {% if publication.venue %}
+        <p class="publication__venue">{{ publication.venue | escape }}</p>
+      {% endif %}
+      {% if publication.links %}
+        <div class="publication__links">
+          {% for link_type in publication_link_types %}
+            {% assign url = publication.links[link_type] %}
+            {% if url and url != empty %}
+              <a class="publication__link" href="{{ url | escape }}" aria-label="{{ link_type | capitalize }} for {{ publication.title | escape }}">{{ link_type | capitalize }}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
